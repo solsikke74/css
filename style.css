@@ -15,7 +15,9 @@
  body {
     background-color:#bfdbf7;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
- }
+    margin: 0;
+    padding: 0;
+}
 
  header {
     background-color: #022b3a;
